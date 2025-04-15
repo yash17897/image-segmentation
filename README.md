@@ -1,2 +1,2 @@
 # image-segmentation
-Image segmentation of COCO dataset (2017)
+Image segmentation of Cityscapes dataset
