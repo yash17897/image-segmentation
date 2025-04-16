@@ -38,6 +38,15 @@ Semantic segmentation is the task of assigning a label to every pixel in an imag
 
 ## 🛠️ Installation
 
+Two sets of code are provided for use, one in Kaggle Python notebook format and another in script bundle form: 
+
+1. Kaggle python notebook:
+
+```
+segmentation.ipynb
+```
+
+2. Python file bundle
 ```bash
 git clone https://github.com/yash17897/image-segmentation.git
 cd Task-2_Segmentation
@@ -48,7 +57,6 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
-
 ```
 
 ---
