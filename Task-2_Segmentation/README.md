@@ -1,6 +1,6 @@
 # 🧠 Semantic Segmentation with U-Net on Cityscapes
 
-This repository contains code and assets for training a semantic segmentation model on the [Cityscapes Dataset](https://www.cityscapes-dataset.com/) using a ![U-Net](unet_graph.png) architecture in PyTorch.
+This repository contains code and assets for training a semantic segmentation model on the [Cityscapes Dataset](https://www.cityscapes-dataset.com/) using a U-Net architecture in PyTorch.
 
 ## 📌 Project Overview
 
@@ -56,3 +56,9 @@ pip install -r requirements.txt
 ## 📑 Report
 
 Refer `Report.pdf` for further details.
+
+---
+
+### 🕸️ Model
+
+![U-Net](unet_graph.png) 
