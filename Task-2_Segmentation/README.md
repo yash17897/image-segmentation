@@ -32,9 +32,7 @@ Semantic segmentation is the task of assigning a label to every pixel in an imag
 
 ## 🖼️ Inference Example
 
-| Input | Ground Truth | Prediction |
-|-------|--------------|------------|
-| ![](assets/input.png) | ![](assets/gt.png) | ![](assets/pred.png) |
+![](aa.png) 
 
 ---
 
