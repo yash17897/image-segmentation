@@ -39,8 +39,8 @@ Semantic segmentation is the task of assigning a label to every pixel in an imag
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/cityscapes-unet.git
-cd cityscapes-unet
+git clone https://github.com/yash17897/image-segmentation.git
+cd Task-2_Segmentation
 
 # Create virtual environment
 python3 -m venv venv
