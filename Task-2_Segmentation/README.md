@@ -24,9 +24,9 @@ Semantic segmentation is the task of assigning a label to every pixel in an imag
 
 | Metric           | Value       |
 |------------------|-------------|
-| Pixel Accuracy   | 91.2%       |
-| Mean IoU (mIoU)  | 0.78        |
-| Dice Coefficient | 0.85        |
+| Pixel Accuracy   | 66.7%       |
+| Mean IoU (mIoU)  | 0.48        |
+| Dice Coefficient | 0.67        |
 
 ---
 
