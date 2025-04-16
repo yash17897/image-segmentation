@@ -1,4 +1,4 @@
-# VJ Technologies Submission
+# VJ Technologies Assignment Submission
 
 ## Submitted by:
 
