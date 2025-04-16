@@ -44,6 +44,12 @@ cd Task-2_Segmentation
 
 # Create virtual environment
 python3 -m venv venv
+
+---
+
+## 📑 Report
+
+Refer `Report.pdf` for further details.
 source venv/bin/activate
 
 # Install dependencies
