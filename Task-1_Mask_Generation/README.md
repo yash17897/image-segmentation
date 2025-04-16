@@ -18,5 +18,5 @@ This project converts Cityscapes dataset label IDs into multiclass or binary mas
 1. Set up environment: `uv venv .venv && uv pip install -r requirements.txt`
 2. Run the script: `python mask_generator.py --mode multiclass --output_dir Cityscapes/train_masks`
 
-## License:
-MIT
+## Report:
+Refer `Report.pdf` for further information.
