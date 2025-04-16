@@ -57,6 +57,9 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Use files from following bundle as per instruced in pdf document
+python_bundle
 ```
 
 ---
